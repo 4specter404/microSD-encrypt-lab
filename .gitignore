@@ -1,0 +1,30 @@
+# Private data and credentials
+private/
+*.key
+*.pem
+*.header
+.env
+
+# Disk images and encrypted containers
+*.img
+*.hc
+*.inc
+*.iso
+*.tar
+*.age
+
+# Downloaded software
+software/
+*.deb
+
+# Temporary files
+*.tmp
+*.bak
+*~private/
+*.img
+*.key
+*.header
+*.hc
+
+# Personal project logs
+logs/
